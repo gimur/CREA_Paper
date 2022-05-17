@@ -1,1 +1,5 @@
-# CREA_Paper
+# Safety and Efficacy of Convalescent Plasma for Severe COVID-19: A Randomized, Single Blinded, Parallel, Controlled Clinical Study
+
+Convalescent plasma has been widely used to treat COVID-19 and is under study. However, the variability in the current clinical trials has averted its wide use in the current pandemic. We aimed to evaluate the safety and efficacy of CP in severe coronavirus disease 2019 (COVID-19) in the early stages of the disease. 
+
+A randomized controlled clinical study was conducted on 101 patients admitted to the hospital with confirmed severe COVID-19. Most participants had less than 14 days from symptoms onset and less than seven days from hospitalization. Fifty patients were assigned to receive CP plus standard therapy (ST), and 51 were assigned to receive ST alone. Participants in the CP arm received two doses of 250 mL each, transfused 24 hours apart. All transfused plasma was obtained from "super donors" that fulfilled the following criteria: titers of anti-SARS-CoV-2 S1 IgG ≥ 1:3200 and IgA ≥ 1:800 antibodies. The primary outcomes were the reduction in viral load and the increase in IgG and IgA antibodies at 28 days of follow-up. The per-protocol analysis included 91 patients.
